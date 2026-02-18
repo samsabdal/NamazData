@@ -1,8 +1,8 @@
 {
   "showAd": true,
   "title": "Support Our Development",
-  "message": "We are building more features like Hajj Guide and Quran Audio. Please support us to keep the app free!",
+  "message": "We are building more features like Hajj Guide and Quran in the local language. Please support us to keep the app free!",
   "link": "https://www.buymeacoffee.com/yourusername",
-  "color": "#FFD700",
+  "color": "#ccff66",
   "image": "https://raw.githubusercontent.com/samsabdal/NamazData/refs/heads/main/logo.png"
 }
