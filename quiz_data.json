@@ -118,5 +118,1206 @@
     ],
     "correct_answer_index": 2,
     "explanation": "Zakat al-Fitr is the obligatory charity given before the Eid prayer at the end of Ramadan."
+  },
+  {
+    "id": 1,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 2,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 3,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 4,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 5,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 6,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 7,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 8,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 9,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 10,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 11,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 12,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 13,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 14,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 15,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 16,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 17,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 18,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 19,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 20,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 21,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 22,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 23,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 24,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 25,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 26,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 27,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 28,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 29,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 30,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 31,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 32,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 33,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 34,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 35,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 36,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 37,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 38,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 39,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 40,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 41,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 42,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 43,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 44,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 45,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 46,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 47,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 48,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 49,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 50,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 51,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 52,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 53,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 54,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 55,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 56,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 57,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 58,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 59,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 60,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 61,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 62,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 63,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 64,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 65,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 66,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 67,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 68,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 69,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 70,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 71,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 72,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 73,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 74,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 75,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 76,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 77,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 78,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 79,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 80,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 81,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 82,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 83,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 84,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 85,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 86,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 87,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 88,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 89,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 90,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 91,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 92,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 93,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 94,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 95,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
+  },
+  {
+    "id": 96,
+    "question": "How many pillars of Islam are there?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "There are five pillars of Islam: Shahada, Salat, Zakat, Sawm, and Hajj."
+  },
+  {
+    "id": 97,
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "100",
+      "114",
+      "99",
+      "120"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The Quran consists of 114 Surahs."
+  },
+  {
+    "id": 98,
+    "question": "Which angel brought revelation to Prophet Muhammad (PBUH)?",
+    "options": [
+      "Angel Mikail (AS)",
+      "Angel Israfil (AS)",
+      "Angel Jibreel (AS)",
+      "Angel Azrael (AS)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Angel Jibreel (AS) brought the revelation of the Quran."
+  },
+  {
+    "id": 99,
+    "question": "What is the holy book of Islam?",
+    "options": [
+      "Torah",
+      "Bible",
+      "Quran",
+      "Zabur"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Quran is the holy book of Islam."
+  },
+  {
+    "id": 100,
+    "question": "Which city is known as the city of the Prophet (PBUH)?",
+    "options": [
+      "Makkah",
+      "Madinah",
+      "Taif",
+      "Jerusalem"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "Madinah is known as the city of the Prophet Muhammad (PBUH)."
   }
+]
 ]
